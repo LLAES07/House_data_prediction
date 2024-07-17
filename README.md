@@ -23,11 +23,34 @@ Este repositorio tiene como objetivo:
 
 El dataset `house_data.xlsx` contiene características detalladas de casas vendidas recientemente, junto con sus precios.
 
+
 ## Características
 
 Las características principales incluyen:
 
-- [Listar características relevantes del dataset, como número de habitaciones, área de construcción, etc.]
+El dataset proporciona información detallada sobre propiedades vendidas, incluyendo las siguientes características principales:
+
+- **id**: Identificación única de la propiedad
+- **date**: Fecha de venta de la propiedad
+- **price**: Precio de venta de la propiedad
+- **bedrooms**: Número de dormitorios
+- **bathrooms**: Número de baños completos
+- **sqft_living**: Pies cuadrados habitables 
+- **sqft_lot**: Pies cuadrados de lote 
+- **floors**: Número de pisos en la propiedad
+- **waterfront**: Frente al agua (0 = No, 1 = Sí)
+- **view**: Vistas
+- **condition**: Condición (1 = Pobre, 5 = Excelente)
+- **grade**: Grado  (1-13)
+- **sqft_above**: Pies cuadrados sobre el nivel del suelo 
+- **sqft_basement**: Pies cuadrados del sótano
+- **yr_built**: Año de construcción
+- **yr_renovated**: Año de renovación 
+- **zipcode**: Código postal
+- **lat**: Latitud 
+- **long**: Longitud 
+- **sqft_living15**: Pies cuadrados habitables 15
+- **sqft_lot15**: Pies cuadrados de lote 15 
 
 ## Modelos
 
