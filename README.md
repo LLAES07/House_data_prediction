@@ -63,7 +63,4 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 ¡Se aceptan contribuciones a este repositorio! Si tienes ideas para mejorar, corregir errores, o explorar diferentes aspectos del modelo, no dudes en crear un pull request.
 
-## Licencia
-
-Este proyecto está bajo la Licencia MIT.
 
